@@ -1,0 +1,8 @@
+E:\Solutions\05.Lists\03.MergingLists\bin\Debug\03.MergingLists.exe.config
+E:\Solutions\05.Lists\03.MergingLists\bin\Debug\03.MergingLists.exe
+E:\Solutions\05.Lists\03.MergingLists\bin\Debug\03.MergingLists.pdb
+E:\Solutions\05.Lists\03.MergingLists\obj\Debug\03.MergingLists.csproj.AssemblyReference.cache
+E:\Solutions\05.Lists\03.MergingLists\obj\Debug\03.MergingLists.csproj.CoreCompileInputs.cache
+E:\Solutions\05.Lists\03.MergingLists\obj\Debug\03.MergingLists.exe
+E:\Solutions\05.Lists\03.MergingLists\obj\Debug\03.MergingLists.pdb
+E:\Solutions\05.Lists\03.MergingLists\obj\Debug\03.MergingLists.exe.config
