@@ -1,8 +1,0 @@
-E:\Solutions\05.Lists\1.SumAdjacentEqualNumbers\bin\Debug\1.SumAdjacentEqualNumbers.exe.config
-E:\Solutions\05.Lists\1.SumAdjacentEqualNumbers\bin\Debug\1.SumAdjacentEqualNumbers.exe
-E:\Solutions\05.Lists\1.SumAdjacentEqualNumbers\bin\Debug\1.SumAdjacentEqualNumbers.pdb
-E:\Solutions\05.Lists\1.SumAdjacentEqualNumbers\obj\Debug\01.SumAdjacentEqualNumbers.csproj.AssemblyReference.cache
-E:\Solutions\05.Lists\1.SumAdjacentEqualNumbers\obj\Debug\1.SumAdjacentEqualNumbers.exe.config
-E:\Solutions\05.Lists\1.SumAdjacentEqualNumbers\obj\Debug\01.SumAdjacentEqualNumbers.csproj.CoreCompileInputs.cache
-E:\Solutions\05.Lists\1.SumAdjacentEqualNumbers\obj\Debug\1.SumAdjacentEqualNumbers.exe
-E:\Solutions\05.Lists\1.SumAdjacentEqualNumbers\obj\Debug\1.SumAdjacentEqualNumbers.pdb
