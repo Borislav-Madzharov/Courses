@@ -1,0 +1,7 @@
+E:\Solutions\03.Arrays_Lab\06.EvenAndOddSubtraction\bin\Debug\06.EvenAndOddSubtraction.exe.config
+E:\Solutions\03.Arrays_Lab\06.EvenAndOddSubtraction\bin\Debug\06.EvenAndOddSubtraction.exe
+E:\Solutions\03.Arrays_Lab\06.EvenAndOddSubtraction\bin\Debug\06.EvenAndOddSubtraction.pdb
+E:\Solutions\03.Arrays_Lab\06.EvenAndOddSubtraction\obj\Debug\06.EvenAndOddSubtraction.csproj.AssemblyReference.cache
+E:\Solutions\03.Arrays_Lab\06.EvenAndOddSubtraction\obj\Debug\06.EvenAndOddSubtraction.csproj.CoreCompileInputs.cache
+E:\Solutions\03.Arrays_Lab\06.EvenAndOddSubtraction\obj\Debug\06.EvenAndOddSubtraction.exe
+E:\Solutions\03.Arrays_Lab\06.EvenAndOddSubtraction\obj\Debug\06.EvenAndOddSubtraction.pdb

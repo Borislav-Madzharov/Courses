@@ -1,0 +1,8 @@
+E:\Solutions\03.Arrays_Lab\08.CondenseArrayToNumber\bin\Debug\08.CondenseArrayToNumber.exe.config
+E:\Solutions\03.Arrays_Lab\08.CondenseArrayToNumber\bin\Debug\08.CondenseArrayToNumber.exe
+E:\Solutions\03.Arrays_Lab\08.CondenseArrayToNumber\bin\Debug\08.CondenseArrayToNumber.pdb
+E:\Solutions\03.Arrays_Lab\08.CondenseArrayToNumber\obj\Debug\08.CondenseArrayToNumber.csproj.AssemblyReference.cache
+E:\Solutions\03.Arrays_Lab\08.CondenseArrayToNumber\obj\Debug\08.CondenseArrayToNumber.csproj.CoreCompileInputs.cache
+E:\Solutions\03.Arrays_Lab\08.CondenseArrayToNumber\obj\Debug\08.CondenseArrayToNumber.exe
+E:\Solutions\03.Arrays_Lab\08.CondenseArrayToNumber\obj\Debug\08.CondenseArrayToNumber.pdb
+E:\Solutions\03.Arrays_Lab\08.CondenseArrayToNumber\obj\Debug\08.CondenseArrayToNumber.exe.config
