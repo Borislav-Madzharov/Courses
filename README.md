@@ -8,7 +8,10 @@ SoftUni:
 3. C# Databases                               ⏳ Planned
 
 Progress & Updates
+
 ●Courses are updated as I progress
+
 ●New projects and notes are added regularly
+
 ●Improvements and refactoring may happen over time
 
