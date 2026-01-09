@@ -1,0 +1,8 @@
+E:\Solutions\DataTypesAndVariables-Exercise\09.SpiceMustFlow\bin\Debug\09.SpiceMustFlow.exe.config
+E:\Solutions\DataTypesAndVariables-Exercise\09.SpiceMustFlow\bin\Debug\09.SpiceMustFlow.exe
+E:\Solutions\DataTypesAndVariables-Exercise\09.SpiceMustFlow\bin\Debug\09.SpiceMustFlow.pdb
+E:\Solutions\DataTypesAndVariables-Exercise\09.SpiceMustFlow\obj\Debug\09.SpiceMustFlow.csproj.AssemblyReference.cache
+E:\Solutions\DataTypesAndVariables-Exercise\09.SpiceMustFlow\obj\Debug\09.SpiceMustFlow.csproj.CoreCompileInputs.cache
+E:\Solutions\DataTypesAndVariables-Exercise\09.SpiceMustFlow\obj\Debug\09.SpiceMustFlow.exe
+E:\Solutions\DataTypesAndVariables-Exercise\09.SpiceMustFlow\obj\Debug\09.SpiceMustFlow.pdb
+E:\Solutions\DataTypesAndVariables-Exercise\09.SpiceMustFlow\obj\Debug\09.SpiceMustFlow.exe.config

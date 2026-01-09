@@ -1,0 +1,8 @@
+E:\Solutions\DataTypesAndVariables-Exercise\07.WaterOverflow\bin\Debug\07.WaterOverflow.exe.config
+E:\Solutions\DataTypesAndVariables-Exercise\07.WaterOverflow\bin\Debug\07.WaterOverflow.exe
+E:\Solutions\DataTypesAndVariables-Exercise\07.WaterOverflow\bin\Debug\07.WaterOverflow.pdb
+E:\Solutions\DataTypesAndVariables-Exercise\07.WaterOverflow\obj\Debug\07.WaterOverflow.csproj.AssemblyReference.cache
+E:\Solutions\DataTypesAndVariables-Exercise\07.WaterOverflow\obj\Debug\07.WaterOverflow.csproj.CoreCompileInputs.cache
+E:\Solutions\DataTypesAndVariables-Exercise\07.WaterOverflow\obj\Debug\07.WaterOverflow.exe
+E:\Solutions\DataTypesAndVariables-Exercise\07.WaterOverflow\obj\Debug\07.WaterOverflow.pdb
+E:\Solutions\DataTypesAndVariables-Exercise\07.WaterOverflow\obj\Debug\07.WaterOverflow.exe.config

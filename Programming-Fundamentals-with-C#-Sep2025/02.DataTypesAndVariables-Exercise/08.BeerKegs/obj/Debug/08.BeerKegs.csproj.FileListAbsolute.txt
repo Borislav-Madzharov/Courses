@@ -1,0 +1,8 @@
+E:\Solutions\DataTypesAndVariables-Exercise\08.BeerKegs\bin\Debug\08.BeerKegs.exe.config
+E:\Solutions\DataTypesAndVariables-Exercise\08.BeerKegs\bin\Debug\08.BeerKegs.exe
+E:\Solutions\DataTypesAndVariables-Exercise\08.BeerKegs\bin\Debug\08.BeerKegs.pdb
+E:\Solutions\DataTypesAndVariables-Exercise\08.BeerKegs\obj\Debug\08.BeerKegs.csproj.AssemblyReference.cache
+E:\Solutions\DataTypesAndVariables-Exercise\08.BeerKegs\obj\Debug\08.BeerKegs.csproj.CoreCompileInputs.cache
+E:\Solutions\DataTypesAndVariables-Exercise\08.BeerKegs\obj\Debug\08.BeerKegs.exe
+E:\Solutions\DataTypesAndVariables-Exercise\08.BeerKegs\obj\Debug\08.BeerKegs.pdb
+E:\Solutions\DataTypesAndVariables-Exercise\08.BeerKegs\obj\Debug\08.BeerKegs.exe.config

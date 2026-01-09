@@ -1,0 +1,8 @@
+E:\Solutions\DataTypesAndVariables-Exercise\11.Snowballs\bin\Debug\11.Snowballs.exe.config
+E:\Solutions\DataTypesAndVariables-Exercise\11.Snowballs\bin\Debug\11.Snowballs.exe
+E:\Solutions\DataTypesAndVariables-Exercise\11.Snowballs\bin\Debug\11.Snowballs.pdb
+E:\Solutions\DataTypesAndVariables-Exercise\11.Snowballs\obj\Debug\11.Snowballs.csproj.AssemblyReference.cache
+E:\Solutions\DataTypesAndVariables-Exercise\11.Snowballs\obj\Debug\11.Snowballs.csproj.CoreCompileInputs.cache
+E:\Solutions\DataTypesAndVariables-Exercise\11.Snowballs\obj\Debug\11.Snowballs.exe
+E:\Solutions\DataTypesAndVariables-Exercise\11.Snowballs\obj\Debug\11.Snowballs.pdb
+E:\Solutions\DataTypesAndVariables-Exercise\11.Snowballs\obj\Debug\11.Snowballs.exe.config
