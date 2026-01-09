@@ -1,0 +1,8 @@
+E:\Solutions\midExam\exercise3\bin\Debug\exercise3.exe.config
+E:\Solutions\midExam\exercise3\bin\Debug\exercise3.exe
+E:\Solutions\midExam\exercise3\bin\Debug\exercise3.pdb
+E:\Solutions\midExam\exercise3\obj\Debug\exercise3.csproj.AssemblyReference.cache
+E:\Solutions\midExam\exercise3\obj\Debug\exercise3.csproj.CoreCompileInputs.cache
+E:\Solutions\midExam\exercise3\obj\Debug\exercise3.exe
+E:\Solutions\midExam\exercise3\obj\Debug\exercise3.pdb
+E:\Solutions\midExam\exercise3\obj\Debug\exercise3.exe.config

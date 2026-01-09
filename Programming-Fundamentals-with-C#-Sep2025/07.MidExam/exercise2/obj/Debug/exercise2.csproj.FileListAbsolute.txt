@@ -1,0 +1,8 @@
+E:\Solutions\midExam\exercise2\obj\Debug\exercise2.csproj.AssemblyReference.cache
+E:\Solutions\midExam\exercise2\obj\Debug\exercise2.csproj.CoreCompileInputs.cache
+E:\Solutions\midExam\exercise2\bin\Debug\exercise2.exe.config
+E:\Solutions\midExam\exercise2\bin\Debug\exercise2.exe
+E:\Solutions\midExam\exercise2\bin\Debug\exercise2.pdb
+E:\Solutions\midExam\exercise2\obj\Debug\exercise2.exe
+E:\Solutions\midExam\exercise2\obj\Debug\exercise2.pdb
+E:\Solutions\midExam\exercise2\obj\Debug\exercise2.exe.config
