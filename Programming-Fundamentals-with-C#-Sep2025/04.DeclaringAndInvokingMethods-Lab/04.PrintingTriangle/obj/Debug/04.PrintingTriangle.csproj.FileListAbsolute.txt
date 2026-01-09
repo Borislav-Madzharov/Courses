@@ -1,0 +1,8 @@
+E:\Solutions\04.DeclaringAndInvokingMethods\04.PrintingTriangle\bin\Debug\04.PrintingTriangle.exe.config
+E:\Solutions\04.DeclaringAndInvokingMethods\04.PrintingTriangle\bin\Debug\04.PrintingTriangle.exe
+E:\Solutions\04.DeclaringAndInvokingMethods\04.PrintingTriangle\bin\Debug\04.PrintingTriangle.pdb
+E:\Solutions\04.DeclaringAndInvokingMethods\04.PrintingTriangle\obj\Debug\04.PrintingTriangle.csproj.AssemblyReference.cache
+E:\Solutions\04.DeclaringAndInvokingMethods\04.PrintingTriangle\obj\Debug\04.PrintingTriangle.csproj.CoreCompileInputs.cache
+E:\Solutions\04.DeclaringAndInvokingMethods\04.PrintingTriangle\obj\Debug\04.PrintingTriangle.exe
+E:\Solutions\04.DeclaringAndInvokingMethods\04.PrintingTriangle\obj\Debug\04.PrintingTriangle.pdb
+E:\Solutions\04.DeclaringAndInvokingMethods\04.PrintingTriangle\obj\Debug\04.PrintingTriangle.exe.config
