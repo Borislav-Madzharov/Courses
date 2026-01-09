@@ -1,0 +1,8 @@
+E:\Solutions\ObjectsAndClasses\05.Students2.0\bin\Debug\05.Students2.0.exe.config
+E:\Solutions\ObjectsAndClasses\05.Students2.0\bin\Debug\05.Students2.0.exe
+E:\Solutions\ObjectsAndClasses\05.Students2.0\bin\Debug\05.Students2.0.pdb
+E:\Solutions\ObjectsAndClasses\05.Students2.0\obj\Debug\05.Students2.0.csproj.AssemblyReference.cache
+E:\Solutions\ObjectsAndClasses\05.Students2.0\obj\Debug\05.Students2.0.csproj.CoreCompileInputs.cache
+E:\Solutions\ObjectsAndClasses\05.Students2.0\obj\Debug\05.Students2.0.exe
+E:\Solutions\ObjectsAndClasses\05.Students2.0\obj\Debug\05.Students2.0.pdb
+E:\Solutions\ObjectsAndClasses\05.Students2.0\obj\Debug\05.Students2.0.exe.config

@@ -1,0 +1,8 @@
+E:\Solutions\ObjectsAndClasses\06.StoreBoxes\bin\Debug\06.StoreBoxes.exe.config
+E:\Solutions\ObjectsAndClasses\06.StoreBoxes\bin\Debug\06.StoreBoxes.exe
+E:\Solutions\ObjectsAndClasses\06.StoreBoxes\bin\Debug\06.StoreBoxes.pdb
+E:\Solutions\ObjectsAndClasses\06.StoreBoxes\obj\Debug\06.StoreBoxes.csproj.AssemblyReference.cache
+E:\Solutions\ObjectsAndClasses\06.StoreBoxes\obj\Debug\06.StoreBoxes.csproj.CoreCompileInputs.cache
+E:\Solutions\ObjectsAndClasses\06.StoreBoxes\obj\Debug\06.StoreBoxes.exe
+E:\Solutions\ObjectsAndClasses\06.StoreBoxes\obj\Debug\06.StoreBoxes.pdb
+E:\Solutions\ObjectsAndClasses\06.StoreBoxes\obj\Debug\06.StoreBoxes.exe.config

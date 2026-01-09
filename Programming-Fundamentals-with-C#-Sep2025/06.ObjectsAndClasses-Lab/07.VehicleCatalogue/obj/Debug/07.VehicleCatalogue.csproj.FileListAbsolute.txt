@@ -1,0 +1,8 @@
+E:\Solutions\ObjectsAndClasses\07.VehicleCatalogue\bin\Debug\07.VehicleCatalogue.exe.config
+E:\Solutions\ObjectsAndClasses\07.VehicleCatalogue\bin\Debug\07.VehicleCatalogue.exe
+E:\Solutions\ObjectsAndClasses\07.VehicleCatalogue\bin\Debug\07.VehicleCatalogue.pdb
+E:\Solutions\ObjectsAndClasses\07.VehicleCatalogue\obj\Debug\07.VehicleCatalogue.csproj.AssemblyReference.cache
+E:\Solutions\ObjectsAndClasses\07.VehicleCatalogue\obj\Debug\07.VehicleCatalogue.csproj.CoreCompileInputs.cache
+E:\Solutions\ObjectsAndClasses\07.VehicleCatalogue\obj\Debug\07.VehicleCatalogue.exe
+E:\Solutions\ObjectsAndClasses\07.VehicleCatalogue\obj\Debug\07.VehicleCatalogue.pdb
+E:\Solutions\ObjectsAndClasses\07.VehicleCatalogue\obj\Debug\07.VehicleCatalogue.exe.config
