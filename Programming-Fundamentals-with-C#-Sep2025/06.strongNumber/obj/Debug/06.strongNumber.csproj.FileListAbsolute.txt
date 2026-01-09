@@ -1,8 +1,0 @@
-E:\Solutions\06.strongNumber\bin\Debug\06.strongNumber.exe.config
-E:\Solutions\06.strongNumber\bin\Debug\06.strongNumber.exe
-E:\Solutions\06.strongNumber\bin\Debug\06.strongNumber.pdb
-E:\Solutions\06.strongNumber\obj\Debug\06.strongNumber.csproj.AssemblyReference.cache
-E:\Solutions\06.strongNumber\obj\Debug\06.strongNumber.csproj.CoreCompileInputs.cache
-E:\Solutions\06.strongNumber\obj\Debug\06.strongNumber.exe
-E:\Solutions\06.strongNumber\obj\Debug\06.strongNumber.pdb
-E:\Solutions\06.strongNumber\obj\Debug\06.strongNumber.exe.config
