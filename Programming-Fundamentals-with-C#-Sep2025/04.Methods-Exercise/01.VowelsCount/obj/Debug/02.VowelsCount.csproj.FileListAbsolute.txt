@@ -1,0 +1,7 @@
+E:\Solutions\04.Methods-Exercise\02.VowelsCount\bin\Debug\02.VowelsCount.exe.config
+E:\Solutions\04.Methods-Exercise\02.VowelsCount\bin\Debug\02.VowelsCount.exe
+E:\Solutions\04.Methods-Exercise\02.VowelsCount\bin\Debug\02.VowelsCount.pdb
+E:\Solutions\04.Methods-Exercise\02.VowelsCount\obj\Debug\02.VowelsCount.csproj.AssemblyReference.cache
+E:\Solutions\04.Methods-Exercise\02.VowelsCount\obj\Debug\02.VowelsCount.csproj.CoreCompileInputs.cache
+E:\Solutions\04.Methods-Exercise\02.VowelsCount\obj\Debug\02.VowelsCount.exe
+E:\Solutions\04.Methods-Exercise\02.VowelsCount\obj\Debug\02.VowelsCount.pdb

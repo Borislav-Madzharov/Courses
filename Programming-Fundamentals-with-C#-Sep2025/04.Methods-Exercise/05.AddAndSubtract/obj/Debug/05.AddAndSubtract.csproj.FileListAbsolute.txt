@@ -1,0 +1,7 @@
+E:\Solutions\04.Methods-Exercise\05.AddAndSubtract\bin\Debug\05.AddAndSubtract.exe.config
+E:\Solutions\04.Methods-Exercise\05.AddAndSubtract\bin\Debug\05.AddAndSubtract.exe
+E:\Solutions\04.Methods-Exercise\05.AddAndSubtract\bin\Debug\05.AddAndSubtract.pdb
+E:\Solutions\04.Methods-Exercise\05.AddAndSubtract\obj\Debug\05.AddAndSubtract.csproj.AssemblyReference.cache
+E:\Solutions\04.Methods-Exercise\05.AddAndSubtract\obj\Debug\05.AddAndSubtract.csproj.CoreCompileInputs.cache
+E:\Solutions\04.Methods-Exercise\05.AddAndSubtract\obj\Debug\05.AddAndSubtract.exe
+E:\Solutions\04.Methods-Exercise\05.AddAndSubtract\obj\Debug\05.AddAndSubtract.pdb
