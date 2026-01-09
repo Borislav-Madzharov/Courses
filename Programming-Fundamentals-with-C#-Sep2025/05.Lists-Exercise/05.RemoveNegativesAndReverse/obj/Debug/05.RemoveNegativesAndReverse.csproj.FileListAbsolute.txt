@@ -1,0 +1,8 @@
+E:\Solutions\05.Lists\05.RemoveNegativesAndReverse\obj\Debug\05.RemoveNegativesAndReverse.csproj.AssemblyReference.cache
+E:\Solutions\05.Lists\05.RemoveNegativesAndReverse\obj\Debug\05.RemoveNegativesAndReverse.csproj.CoreCompileInputs.cache
+E:\Solutions\05.Lists\05.RemoveNegativesAndReverse\bin\Debug\05.RemoveNegativesAndReverse.exe.config
+E:\Solutions\05.Lists\05.RemoveNegativesAndReverse\bin\Debug\05.RemoveNegativesAndReverse.exe
+E:\Solutions\05.Lists\05.RemoveNegativesAndReverse\bin\Debug\05.RemoveNegativesAndReverse.pdb
+E:\Solutions\05.Lists\05.RemoveNegativesAndReverse\obj\Debug\05.RemoveNegativesAndReverse.exe
+E:\Solutions\05.Lists\05.RemoveNegativesAndReverse\obj\Debug\05.RemoveNegativesAndReverse.pdb
+E:\Solutions\05.Lists\05.RemoveNegativesAndReverse\obj\Debug\05.RemoveNegativesAndReverse.exe.config
