@@ -1,0 +1,8 @@
+E:\Solutions\03.Arrays-Exercise\10.LadyBugs\bin\Debug\10.LadyBugs.exe.config
+E:\Solutions\03.Arrays-Exercise\10.LadyBugs\bin\Debug\10.LadyBugs.exe
+E:\Solutions\03.Arrays-Exercise\10.LadyBugs\bin\Debug\10.LadyBugs.pdb
+E:\Solutions\03.Arrays-Exercise\10.LadyBugs\obj\Debug\10.LadyBugs.csproj.AssemblyReference.cache
+E:\Solutions\03.Arrays-Exercise\10.LadyBugs\obj\Debug\10.LadyBugs.csproj.CoreCompileInputs.cache
+E:\Solutions\03.Arrays-Exercise\10.LadyBugs\obj\Debug\10.LadyBugs.exe
+E:\Solutions\03.Arrays-Exercise\10.LadyBugs\obj\Debug\10.LadyBugs.pdb
+E:\Solutions\03.Arrays-Exercise\10.LadyBugs\obj\Debug\10.LadyBugs.exe.config

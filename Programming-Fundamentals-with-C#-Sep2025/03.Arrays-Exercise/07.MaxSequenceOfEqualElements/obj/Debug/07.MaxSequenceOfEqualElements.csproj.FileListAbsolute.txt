@@ -1,0 +1,8 @@
+E:\Solutions\03.Arrays-Exercise\07.MaxSequenceOfEqualElements\bin\Debug\07.MaxSequenceOfEqualElements.exe.config
+E:\Solutions\03.Arrays-Exercise\07.MaxSequenceOfEqualElements\bin\Debug\07.MaxSequenceOfEqualElements.exe
+E:\Solutions\03.Arrays-Exercise\07.MaxSequenceOfEqualElements\bin\Debug\07.MaxSequenceOfEqualElements.pdb
+E:\Solutions\03.Arrays-Exercise\07.MaxSequenceOfEqualElements\obj\Debug\07.MaxSequenceOfEqualElements.csproj.AssemblyReference.cache
+E:\Solutions\03.Arrays-Exercise\07.MaxSequenceOfEqualElements\obj\Debug\07.MaxSequenceOfEqualElements.csproj.CoreCompileInputs.cache
+E:\Solutions\03.Arrays-Exercise\07.MaxSequenceOfEqualElements\obj\Debug\07.MaxSequenceOfEqualElements.exe
+E:\Solutions\03.Arrays-Exercise\07.MaxSequenceOfEqualElements\obj\Debug\07.MaxSequenceOfEqualElements.pdb
+E:\Solutions\03.Arrays-Exercise\07.MaxSequenceOfEqualElements\obj\Debug\07.MaxSequenceOfEqualElements.exe.config
