@@ -1,0 +1,8 @@
+E:\Solutions\09.Text Processing\04.TextFilter\bin\Debug\04.TextFilter.exe.config
+E:\Solutions\09.Text Processing\04.TextFilter\bin\Debug\04.TextFilter.exe
+E:\Solutions\09.Text Processing\04.TextFilter\bin\Debug\04.TextFilter.pdb
+E:\Solutions\09.Text Processing\04.TextFilter\obj\Debug\04.TextFilter.csproj.AssemblyReference.cache
+E:\Solutions\09.Text Processing\04.TextFilter\obj\Debug\04.TextFilter.csproj.CoreCompileInputs.cache
+E:\Solutions\09.Text Processing\04.TextFilter\obj\Debug\04.TextFilter.exe
+E:\Solutions\09.Text Processing\04.TextFilter\obj\Debug\04.TextFilter.pdb
+E:\Solutions\09.Text Processing\04.TextFilter\obj\Debug\04.TextFilter.exe.config

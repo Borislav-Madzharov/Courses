@@ -1,0 +1,7 @@
+E:\Solutions\09.Text Processing\02.RepeatStrings\bin\Debug\02.RepeatStrings.exe.config
+E:\Solutions\09.Text Processing\02.RepeatStrings\bin\Debug\02.RepeatStrings.exe
+E:\Solutions\09.Text Processing\02.RepeatStrings\bin\Debug\02.RepeatStrings.pdb
+E:\Solutions\09.Text Processing\02.RepeatStrings\obj\Debug\02.RepeatStrings.csproj.AssemblyReference.cache
+E:\Solutions\09.Text Processing\02.RepeatStrings\obj\Debug\02.RepeatStrings.csproj.CoreCompileInputs.cache
+E:\Solutions\09.Text Processing\02.RepeatStrings\obj\Debug\02.RepeatStrings.exe
+E:\Solutions\09.Text Processing\02.RepeatStrings\obj\Debug\02.RepeatStrings.pdb
