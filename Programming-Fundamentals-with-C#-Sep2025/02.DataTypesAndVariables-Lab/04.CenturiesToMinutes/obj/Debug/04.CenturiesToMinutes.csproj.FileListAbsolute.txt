@@ -1,0 +1,8 @@
+E:\Solutions\DataTypesAndVariables\04.CenturiesToMinutes\bin\Debug\04.CenturiesToMinutes.exe.config
+E:\Solutions\DataTypesAndVariables\04.CenturiesToMinutes\bin\Debug\04.CenturiesToMinutes.exe
+E:\Solutions\DataTypesAndVariables\04.CenturiesToMinutes\bin\Debug\04.CenturiesToMinutes.pdb
+E:\Solutions\DataTypesAndVariables\04.CenturiesToMinutes\obj\Debug\04.CenturiesToMinutes.csproj.AssemblyReference.cache
+E:\Solutions\DataTypesAndVariables\04.CenturiesToMinutes\obj\Debug\04.CenturiesToMinutes.csproj.CoreCompileInputs.cache
+E:\Solutions\DataTypesAndVariables\04.CenturiesToMinutes\obj\Debug\04.CenturiesToMinutes.exe
+E:\Solutions\DataTypesAndVariables\04.CenturiesToMinutes\obj\Debug\04.CenturiesToMinutes.pdb
+E:\Solutions\DataTypesAndVariables\04.CenturiesToMinutes\obj\Debug\04.CenturiesToMinutes.exe.config

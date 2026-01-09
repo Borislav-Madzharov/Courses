@@ -1,0 +1,8 @@
+E:\Solutions\DataTypesAndVariables\03.ExactSumOfRealNumbers\bin\Debug\03.ExactSumOfRealNumbers.exe.config
+E:\Solutions\DataTypesAndVariables\03.ExactSumOfRealNumbers\bin\Debug\03.ExactSumOfRealNumbers.exe
+E:\Solutions\DataTypesAndVariables\03.ExactSumOfRealNumbers\bin\Debug\03.ExactSumOfRealNumbers.pdb
+E:\Solutions\DataTypesAndVariables\03.ExactSumOfRealNumbers\obj\Debug\03.ExactSumOfRealNumbers.csproj.AssemblyReference.cache
+E:\Solutions\DataTypesAndVariables\03.ExactSumOfRealNumbers\obj\Debug\03.ExactSumOfRealNumbers.csproj.CoreCompileInputs.cache
+E:\Solutions\DataTypesAndVariables\03.ExactSumOfRealNumbers\obj\Debug\03.ExactSumOfRealNumbers.exe
+E:\Solutions\DataTypesAndVariables\03.ExactSumOfRealNumbers\obj\Debug\03.ExactSumOfRealNumbers.pdb
+E:\Solutions\DataTypesAndVariables\03.ExactSumOfRealNumbers\obj\Debug\03.ExactSumOfRealNumbers.exe.config

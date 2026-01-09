@@ -1,0 +1,8 @@
+E:\Solutions\DataTypesAndVariables\05.SpecialNumbers\bin\Debug\05.SpecialNumbers.exe.config
+E:\Solutions\DataTypesAndVariables\05.SpecialNumbers\bin\Debug\05.SpecialNumbers.exe
+E:\Solutions\DataTypesAndVariables\05.SpecialNumbers\bin\Debug\05.SpecialNumbers.pdb
+E:\Solutions\DataTypesAndVariables\05.SpecialNumbers\obj\Debug\05.SpecialNumbers.csproj.AssemblyReference.cache
+E:\Solutions\DataTypesAndVariables\05.SpecialNumbers\obj\Debug\05.SpecialNumbers.csproj.CoreCompileInputs.cache
+E:\Solutions\DataTypesAndVariables\05.SpecialNumbers\obj\Debug\05.SpecialNumbers.exe
+E:\Solutions\DataTypesAndVariables\05.SpecialNumbers\obj\Debug\05.SpecialNumbers.pdb
+E:\Solutions\DataTypesAndVariables\05.SpecialNumbers\obj\Debug\05.SpecialNumbers.exe.config

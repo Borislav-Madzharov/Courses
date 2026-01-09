@@ -1,0 +1,7 @@
+E:\Solutions\DataTypesAndVariables\02. PoundsToDollars\bin\Debug\_02.PoundsToDollars.exe.config
+E:\Solutions\DataTypesAndVariables\02. PoundsToDollars\bin\Debug\_02.PoundsToDollars.exe
+E:\Solutions\DataTypesAndVariables\02. PoundsToDollars\bin\Debug\_02.PoundsToDollars.pdb
+E:\Solutions\DataTypesAndVariables\02. PoundsToDollars\obj\Debug\02. PoundsToDollars.csproj.AssemblyReference.cache
+E:\Solutions\DataTypesAndVariables\02. PoundsToDollars\obj\Debug\02. PoundsToDollars.csproj.CoreCompileInputs.cache
+E:\Solutions\DataTypesAndVariables\02. PoundsToDollars\obj\Debug\_02.PoundsToDollars.exe
+E:\Solutions\DataTypesAndVariables\02. PoundsToDollars\obj\Debug\_02.PoundsToDollars.pdb

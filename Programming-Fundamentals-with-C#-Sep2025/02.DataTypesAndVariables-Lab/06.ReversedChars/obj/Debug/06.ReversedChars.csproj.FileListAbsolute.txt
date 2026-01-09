@@ -1,0 +1,7 @@
+E:\Solutions\DataTypesAndVariables\06.ReversedChars\bin\Debug\06.ReversedChars.exe.config
+E:\Solutions\DataTypesAndVariables\06.ReversedChars\bin\Debug\06.ReversedChars.exe
+E:\Solutions\DataTypesAndVariables\06.ReversedChars\bin\Debug\06.ReversedChars.pdb
+E:\Solutions\DataTypesAndVariables\06.ReversedChars\obj\Debug\06.ReversedChars.csproj.AssemblyReference.cache
+E:\Solutions\DataTypesAndVariables\06.ReversedChars\obj\Debug\06.ReversedChars.csproj.CoreCompileInputs.cache
+E:\Solutions\DataTypesAndVariables\06.ReversedChars\obj\Debug\06.ReversedChars.exe
+E:\Solutions\DataTypesAndVariables\06.ReversedChars\obj\Debug\06.ReversedChars.pdb
