@@ -1,8 +1,0 @@
-E:\Solutions\07.VendingMachine\bin\Debug\07.VendingMachine.exe.config
-E:\Solutions\07.VendingMachine\bin\Debug\07.VendingMachine.exe
-E:\Solutions\07.VendingMachine\bin\Debug\07.VendingMachine.pdb
-E:\Solutions\07.VendingMachine\obj\Debug\07.VendingMachine.csproj.AssemblyReference.cache
-E:\Solutions\07.VendingMachine\obj\Debug\07.VendingMachine.csproj.CoreCompileInputs.cache
-E:\Solutions\07.VendingMachine\obj\Debug\07.VendingMachine.exe
-E:\Solutions\07.VendingMachine\obj\Debug\07.VendingMachine.pdb
-E:\Solutions\07.VendingMachine\obj\Debug\07.VendingMachine.exe.config
