@@ -1,0 +1,7 @@
+E:\Solutions\11.RegularExpressions\03.MatchDates\bin\Debug\03.MatchDates.exe.config
+E:\Solutions\11.RegularExpressions\03.MatchDates\bin\Debug\03.MatchDates.exe
+E:\Solutions\11.RegularExpressions\03.MatchDates\bin\Debug\03.MatchDates.pdb
+E:\Solutions\11.RegularExpressions\03.MatchDates\obj\Debug\03.MatchDates.csproj.AssemblyReference.cache
+E:\Solutions\11.RegularExpressions\03.MatchDates\obj\Debug\03.MatchDates.csproj.CoreCompileInputs.cache
+E:\Solutions\11.RegularExpressions\03.MatchDates\obj\Debug\03.MatchDates.exe
+E:\Solutions\11.RegularExpressions\03.MatchDates\obj\Debug\03.MatchDates.pdb
