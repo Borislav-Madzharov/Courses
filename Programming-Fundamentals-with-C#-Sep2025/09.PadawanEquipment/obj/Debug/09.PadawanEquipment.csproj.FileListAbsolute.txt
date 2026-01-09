@@ -1,8 +1,0 @@
-E:\Solutions\09.PadawanEquipment\bin\Debug\09.PadawanEquipment.exe.config
-E:\Solutions\09.PadawanEquipment\bin\Debug\09.PadawanEquipment.exe
-E:\Solutions\09.PadawanEquipment\bin\Debug\09.PadawanEquipment.pdb
-E:\Solutions\09.PadawanEquipment\obj\Debug\09.PadawanEquipment.csproj.AssemblyReference.cache
-E:\Solutions\09.PadawanEquipment\obj\Debug\09.PadawanEquipment.csproj.CoreCompileInputs.cache
-E:\Solutions\09.PadawanEquipment\obj\Debug\09.PadawanEquipment.exe
-E:\Solutions\09.PadawanEquipment\obj\Debug\09.PadawanEquipment.pdb
-E:\Solutions\09.PadawanEquipment\obj\Debug\09.PadawanEquipment.exe.config
