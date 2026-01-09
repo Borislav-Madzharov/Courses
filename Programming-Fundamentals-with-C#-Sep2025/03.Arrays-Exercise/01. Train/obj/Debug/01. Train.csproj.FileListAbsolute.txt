@@ -1,0 +1,8 @@
+E:\Solutions\03.Arrays-Exercise\01. Train\bin\Debug\_01.Train.exe.config
+E:\Solutions\03.Arrays-Exercise\01. Train\bin\Debug\_01.Train.exe
+E:\Solutions\03.Arrays-Exercise\01. Train\bin\Debug\_01.Train.pdb
+E:\Solutions\03.Arrays-Exercise\01. Train\obj\Debug\01. Train.csproj.AssemblyReference.cache
+E:\Solutions\03.Arrays-Exercise\01. Train\obj\Debug\01. Train.csproj.CoreCompileInputs.cache
+E:\Solutions\03.Arrays-Exercise\01. Train\obj\Debug\_01.Train.exe
+E:\Solutions\03.Arrays-Exercise\01. Train\obj\Debug\_01.Train.pdb
+E:\Solutions\03.Arrays-Exercise\01. Train\obj\Debug\_01.Train.exe.config

@@ -1,0 +1,8 @@
+E:\Solutions\03.Arrays-Exercise\03.ZagZagArrays\bin\Debug\03.ZagZagArrays.exe.config
+E:\Solutions\03.Arrays-Exercise\03.ZagZagArrays\bin\Debug\03.ZagZagArrays.exe
+E:\Solutions\03.Arrays-Exercise\03.ZagZagArrays\bin\Debug\03.ZagZagArrays.pdb
+E:\Solutions\03.Arrays-Exercise\03.ZagZagArrays\obj\Debug\03.ZagZagArrays.csproj.AssemblyReference.cache
+E:\Solutions\03.Arrays-Exercise\03.ZagZagArrays\obj\Debug\03.ZagZagArrays.csproj.CoreCompileInputs.cache
+E:\Solutions\03.Arrays-Exercise\03.ZagZagArrays\obj\Debug\03.ZagZagArrays.exe
+E:\Solutions\03.Arrays-Exercise\03.ZagZagArrays\obj\Debug\03.ZagZagArrays.pdb
+E:\Solutions\03.Arrays-Exercise\03.ZagZagArrays\obj\Debug\03.ZagZagArrays.exe.config
