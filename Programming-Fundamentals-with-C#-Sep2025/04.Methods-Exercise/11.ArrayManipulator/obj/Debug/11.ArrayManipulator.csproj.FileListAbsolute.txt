@@ -1,0 +1,8 @@
+E:\Solutions\04.Methods-Exercise\11.ArrayManipulator\bin\Debug\11.ArrayManipulator.exe.config
+E:\Solutions\04.Methods-Exercise\11.ArrayManipulator\bin\Debug\11.ArrayManipulator.exe
+E:\Solutions\04.Methods-Exercise\11.ArrayManipulator\bin\Debug\11.ArrayManipulator.pdb
+E:\Solutions\04.Methods-Exercise\11.ArrayManipulator\obj\Debug\11.ArrayManipulator.csproj.AssemblyReference.cache
+E:\Solutions\04.Methods-Exercise\11.ArrayManipulator\obj\Debug\11.ArrayManipulator.csproj.CoreCompileInputs.cache
+E:\Solutions\04.Methods-Exercise\11.ArrayManipulator\obj\Debug\11.ArrayManipulator.exe
+E:\Solutions\04.Methods-Exercise\11.ArrayManipulator\obj\Debug\11.ArrayManipulator.pdb
+E:\Solutions\04.Methods-Exercise\11.ArrayManipulator\obj\Debug\11.ArrayManipulator.exe.config

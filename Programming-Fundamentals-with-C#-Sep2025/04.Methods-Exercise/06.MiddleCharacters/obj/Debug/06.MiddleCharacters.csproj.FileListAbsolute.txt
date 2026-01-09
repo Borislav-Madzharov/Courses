@@ -1,0 +1,8 @@
+E:\Solutions\04.Methods-Exercise\06.MiddleCharacters\obj\Debug\06.MiddleCharacters.csproj.AssemblyReference.cache
+E:\Solutions\04.Methods-Exercise\06.MiddleCharacters\obj\Debug\06.MiddleCharacters.csproj.CoreCompileInputs.cache
+E:\Solutions\04.Methods-Exercise\06.MiddleCharacters\bin\Debug\06.MiddleCharacters.exe.config
+E:\Solutions\04.Methods-Exercise\06.MiddleCharacters\bin\Debug\06.MiddleCharacters.exe
+E:\Solutions\04.Methods-Exercise\06.MiddleCharacters\bin\Debug\06.MiddleCharacters.pdb
+E:\Solutions\04.Methods-Exercise\06.MiddleCharacters\obj\Debug\06.MiddleCharacters.exe
+E:\Solutions\04.Methods-Exercise\06.MiddleCharacters\obj\Debug\06.MiddleCharacters.pdb
+E:\Solutions\04.Methods-Exercise\06.MiddleCharacters\obj\Debug\06.MiddleCharacters.exe.config
