@@ -1,0 +1,8 @@
+E:\Solutions\05. Login\bin\Debug\_05.Login.exe.config
+E:\Solutions\05. Login\bin\Debug\_05.Login.exe
+E:\Solutions\05. Login\bin\Debug\_05.Login.pdb
+E:\Solutions\05. Login\obj\Debug\05. Login.csproj.AssemblyReference.cache
+E:\Solutions\05. Login\obj\Debug\05. Login.csproj.CoreCompileInputs.cache
+E:\Solutions\05. Login\obj\Debug\_05.Login.exe
+E:\Solutions\05. Login\obj\Debug\_05.Login.pdb
+E:\Solutions\05. Login\obj\Debug\_05.Login.exe.config
