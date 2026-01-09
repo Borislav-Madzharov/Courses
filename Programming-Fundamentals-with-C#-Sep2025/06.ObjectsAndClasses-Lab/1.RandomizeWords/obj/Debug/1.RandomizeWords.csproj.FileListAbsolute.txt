@@ -1,8 +1,0 @@
-E:\Solutions\ObjectsAndClasses\1.RandomizeWords\bin\Debug\1.RandomizeWords.exe.config
-E:\Solutions\ObjectsAndClasses\1.RandomizeWords\bin\Debug\1.RandomizeWords.exe
-E:\Solutions\ObjectsAndClasses\1.RandomizeWords\bin\Debug\1.RandomizeWords.pdb
-E:\Solutions\ObjectsAndClasses\1.RandomizeWords\obj\Debug\1.RandomizeWords.csproj.AssemblyReference.cache
-E:\Solutions\ObjectsAndClasses\1.RandomizeWords\obj\Debug\1.RandomizeWords.csproj.CoreCompileInputs.cache
-E:\Solutions\ObjectsAndClasses\1.RandomizeWords\obj\Debug\1.RandomizeWords.exe
-E:\Solutions\ObjectsAndClasses\1.RandomizeWords\obj\Debug\1.RandomizeWords.pdb
-E:\Solutions\ObjectsAndClasses\1.RandomizeWords\obj\Debug\1.RandomizeWords.exe.config
