@@ -1,0 +1,8 @@
+E:\Solutions\08.AsociativeArrays\04.WordFilter\bin\Debug\04.WordFilter.exe.config
+E:\Solutions\08.AsociativeArrays\04.WordFilter\bin\Debug\04.WordFilter.exe
+E:\Solutions\08.AsociativeArrays\04.WordFilter\bin\Debug\04.WordFilter.pdb
+E:\Solutions\08.AsociativeArrays\04.WordFilter\obj\Debug\04.WordFilter.csproj.AssemblyReference.cache
+E:\Solutions\08.AsociativeArrays\04.WordFilter\obj\Debug\04.WordFilter.csproj.CoreCompileInputs.cache
+E:\Solutions\08.AsociativeArrays\04.WordFilter\obj\Debug\04.WordFilter.exe
+E:\Solutions\08.AsociativeArrays\04.WordFilter\obj\Debug\04.WordFilter.pdb
+E:\Solutions\08.AsociativeArrays\04.WordFilter\obj\Debug\04.WordFilter.exe.config
