@@ -1,0 +1,15 @@
+C:\Users\zahari\source\repos\RegularExpressions-Exercise\03.SoftUniBarIncome\bin\Debug\03.SoftUniBarIncome.exe.config
+C:\Users\zahari\source\repos\RegularExpressions-Exercise\03.SoftUniBarIncome\bin\Debug\03.SoftUniBarIncome.exe
+C:\Users\zahari\source\repos\RegularExpressions-Exercise\03.SoftUniBarIncome\bin\Debug\03.SoftUniBarIncome.pdb
+C:\Users\zahari\source\repos\RegularExpressions-Exercise\03.SoftUniBarIncome\obj\Debug\03.SoftUniBarIncome.csproj.AssemblyReference.cache
+C:\Users\zahari\source\repos\RegularExpressions-Exercise\03.SoftUniBarIncome\obj\Debug\03.SoftUniBarIncome.csproj.CoreCompileInputs.cache
+C:\Users\zahari\source\repos\RegularExpressions-Exercise\03.SoftUniBarIncome\obj\Debug\03.SoftUniBarIncome.exe
+C:\Users\zahari\source\repos\RegularExpressions-Exercise\03.SoftUniBarIncome\obj\Debug\03.SoftUniBarIncome.pdb
+E:\03.SoftUniBarIncome\bin\Debug\03.SoftUniBarIncome.exe.config
+E:\03.SoftUniBarIncome\bin\Debug\03.SoftUniBarIncome.exe
+E:\03.SoftUniBarIncome\bin\Debug\03.SoftUniBarIncome.pdb
+E:\03.SoftUniBarIncome\obj\Debug\03.SoftUniBarIncome.csproj.AssemblyReference.cache
+E:\03.SoftUniBarIncome\obj\Debug\03.SoftUniBarIncome.csproj.SuggestedBindingRedirects.cache
+E:\03.SoftUniBarIncome\obj\Debug\03.SoftUniBarIncome.csproj.CoreCompileInputs.cache
+E:\03.SoftUniBarIncome\obj\Debug\03.SoftUniBarIncome.exe
+E:\03.SoftUniBarIncome\obj\Debug\03.SoftUniBarIncome.pdb
