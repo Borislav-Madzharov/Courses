@@ -1,0 +1,7 @@
+E:\Solutions\10.TextProcessing-Exercise\02.CharacterMultiplier\bin\Debug\02.CharacterMultiplier.exe.config
+E:\Solutions\10.TextProcessing-Exercise\02.CharacterMultiplier\bin\Debug\02.CharacterMultiplier.exe
+E:\Solutions\10.TextProcessing-Exercise\02.CharacterMultiplier\bin\Debug\02.CharacterMultiplier.pdb
+E:\Solutions\10.TextProcessing-Exercise\02.CharacterMultiplier\obj\Debug\02.CharacterMultiplier.csproj.AssemblyReference.cache
+E:\Solutions\10.TextProcessing-Exercise\02.CharacterMultiplier\obj\Debug\02.CharacterMultiplier.csproj.CoreCompileInputs.cache
+E:\Solutions\10.TextProcessing-Exercise\02.CharacterMultiplier\obj\Debug\02.CharacterMultiplier.exe
+E:\Solutions\10.TextProcessing-Exercise\02.CharacterMultiplier\obj\Debug\02.CharacterMultiplier.pdb

@@ -1,0 +1,7 @@
+E:\Solutions\10.TextProcessing-Exercise\01. Valid Usernames\bin\Debug\_01.Valid_Usernames.exe.config
+E:\Solutions\10.TextProcessing-Exercise\01. Valid Usernames\bin\Debug\_01.Valid_Usernames.exe
+E:\Solutions\10.TextProcessing-Exercise\01. Valid Usernames\bin\Debug\_01.Valid_Usernames.pdb
+E:\Solutions\10.TextProcessing-Exercise\01. Valid Usernames\obj\Debug\01. Valid Usernames.csproj.AssemblyReference.cache
+E:\Solutions\10.TextProcessing-Exercise\01. Valid Usernames\obj\Debug\01. Valid Usernames.csproj.CoreCompileInputs.cache
+E:\Solutions\10.TextProcessing-Exercise\01. Valid Usernames\obj\Debug\_01.Valid_Usernames.exe
+E:\Solutions\10.TextProcessing-Exercise\01. Valid Usernames\obj\Debug\_01.Valid_Usernames.pdb
