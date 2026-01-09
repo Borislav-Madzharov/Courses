@@ -1,0 +1,8 @@
+E:\Solutions\09.AssociativeArrays-Exercise\03.Orders\bin\Debug\03.Orders.exe.config
+E:\Solutions\09.AssociativeArrays-Exercise\03.Orders\bin\Debug\03.Orders.exe
+E:\Solutions\09.AssociativeArrays-Exercise\03.Orders\bin\Debug\03.Orders.pdb
+E:\Solutions\09.AssociativeArrays-Exercise\03.Orders\obj\Debug\03.Orders.csproj.AssemblyReference.cache
+E:\Solutions\09.AssociativeArrays-Exercise\03.Orders\obj\Debug\03.Orders.csproj.CoreCompileInputs.cache
+E:\Solutions\09.AssociativeArrays-Exercise\03.Orders\obj\Debug\03.Orders.exe
+E:\Solutions\09.AssociativeArrays-Exercise\03.Orders\obj\Debug\03.Orders.pdb
+E:\Solutions\09.AssociativeArrays-Exercise\03.Orders\obj\Debug\03.Orders.exe.config
