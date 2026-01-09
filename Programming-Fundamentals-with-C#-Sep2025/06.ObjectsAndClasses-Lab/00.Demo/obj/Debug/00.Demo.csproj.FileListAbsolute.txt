@@ -1,0 +1,8 @@
+E:\Solutions\ObjectsAndClasses\00.Demo\bin\Debug\00.Demo.exe.config
+E:\Solutions\ObjectsAndClasses\00.Demo\bin\Debug\00.Demo.exe
+E:\Solutions\ObjectsAndClasses\00.Demo\bin\Debug\00.Demo.pdb
+E:\Solutions\ObjectsAndClasses\00.Demo\obj\Debug\00.Demo.csproj.AssemblyReference.cache
+E:\Solutions\ObjectsAndClasses\00.Demo\obj\Debug\00.Demo.csproj.CoreCompileInputs.cache
+E:\Solutions\ObjectsAndClasses\00.Demo\obj\Debug\00.Demo.exe
+E:\Solutions\ObjectsAndClasses\00.Demo\obj\Debug\00.Demo.pdb
+E:\Solutions\ObjectsAndClasses\00.Demo\obj\Debug\00.Demo.exe.config

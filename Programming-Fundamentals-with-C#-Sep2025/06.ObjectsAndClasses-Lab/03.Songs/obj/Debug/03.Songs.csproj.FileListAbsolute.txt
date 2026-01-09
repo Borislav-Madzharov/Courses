@@ -1,0 +1,8 @@
+E:\Solutions\ObjectsAndClasses\03.Songs\obj\Debug\03.Songs.csproj.AssemblyReference.cache
+E:\Solutions\ObjectsAndClasses\03.Songs\obj\Debug\03.Songs.csproj.CoreCompileInputs.cache
+E:\Solutions\ObjectsAndClasses\03.Songs\bin\Debug\03.Songs.exe.config
+E:\Solutions\ObjectsAndClasses\03.Songs\bin\Debug\03.Songs.exe
+E:\Solutions\ObjectsAndClasses\03.Songs\bin\Debug\03.Songs.pdb
+E:\Solutions\ObjectsAndClasses\03.Songs\obj\Debug\03.Songs.exe
+E:\Solutions\ObjectsAndClasses\03.Songs\obj\Debug\03.Songs.pdb
+E:\Solutions\ObjectsAndClasses\03.Songs\obj\Debug\03.Songs.exe.config

@@ -1,0 +1,7 @@
+E:\Solutions\ObjectsAndClasses\02.BigFactorial\bin\Debug\02.BigFactorial.exe.config
+E:\Solutions\ObjectsAndClasses\02.BigFactorial\bin\Debug\02.BigFactorial.exe
+E:\Solutions\ObjectsAndClasses\02.BigFactorial\bin\Debug\02.BigFactorial.pdb
+E:\Solutions\ObjectsAndClasses\02.BigFactorial\obj\Debug\02.BigFactorial.csproj.AssemblyReference.cache
+E:\Solutions\ObjectsAndClasses\02.BigFactorial\obj\Debug\02.BigFactorial.csproj.CoreCompileInputs.cache
+E:\Solutions\ObjectsAndClasses\02.BigFactorial\obj\Debug\02.BigFactorial.exe
+E:\Solutions\ObjectsAndClasses\02.BigFactorial\obj\Debug\02.BigFactorial.pdb

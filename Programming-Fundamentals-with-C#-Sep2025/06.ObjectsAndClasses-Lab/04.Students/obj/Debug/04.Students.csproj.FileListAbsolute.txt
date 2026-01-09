@@ -1,0 +1,7 @@
+E:\Solutions\ObjectsAndClasses\04.Students\bin\Debug\04.Students.exe.config
+E:\Solutions\ObjectsAndClasses\04.Students\bin\Debug\04.Students.exe
+E:\Solutions\ObjectsAndClasses\04.Students\bin\Debug\04.Students.pdb
+E:\Solutions\ObjectsAndClasses\04.Students\obj\Debug\04.Students.csproj.AssemblyReference.cache
+E:\Solutions\ObjectsAndClasses\04.Students\obj\Debug\04.Students.csproj.CoreCompileInputs.cache
+E:\Solutions\ObjectsAndClasses\04.Students\obj\Debug\04.Students.exe
+E:\Solutions\ObjectsAndClasses\04.Students\obj\Debug\04.Students.pdb
