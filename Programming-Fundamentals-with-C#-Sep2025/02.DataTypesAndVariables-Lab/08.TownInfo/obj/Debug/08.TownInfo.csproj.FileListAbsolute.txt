@@ -1,0 +1,7 @@
+E:\Solutions\DataTypesAndVariables\08.TownInfo\bin\Debug\08.TownInfo.exe.config
+E:\Solutions\DataTypesAndVariables\08.TownInfo\bin\Debug\08.TownInfo.exe
+E:\Solutions\DataTypesAndVariables\08.TownInfo\bin\Debug\08.TownInfo.pdb
+E:\Solutions\DataTypesAndVariables\08.TownInfo\obj\Debug\08.TownInfo.csproj.AssemblyReference.cache
+E:\Solutions\DataTypesAndVariables\08.TownInfo\obj\Debug\08.TownInfo.csproj.CoreCompileInputs.cache
+E:\Solutions\DataTypesAndVariables\08.TownInfo\obj\Debug\08.TownInfo.exe
+E:\Solutions\DataTypesAndVariables\08.TownInfo\obj\Debug\08.TownInfo.pdb

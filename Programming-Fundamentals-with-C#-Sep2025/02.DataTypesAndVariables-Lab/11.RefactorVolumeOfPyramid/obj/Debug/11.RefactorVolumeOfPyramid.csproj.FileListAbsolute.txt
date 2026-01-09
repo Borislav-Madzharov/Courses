@@ -1,0 +1,8 @@
+E:\Solutions\DataTypesAndVariables\11.RefactorVolumeOfPyramid\bin\Debug\11.RefactorVolumeOfPyramid.exe.config
+E:\Solutions\DataTypesAndVariables\11.RefactorVolumeOfPyramid\bin\Debug\11.RefactorVolumeOfPyramid.exe
+E:\Solutions\DataTypesAndVariables\11.RefactorVolumeOfPyramid\bin\Debug\11.RefactorVolumeOfPyramid.pdb
+E:\Solutions\DataTypesAndVariables\11.RefactorVolumeOfPyramid\obj\Debug\11.RefactorVolumeOfPyramid.csproj.AssemblyReference.cache
+E:\Solutions\DataTypesAndVariables\11.RefactorVolumeOfPyramid\obj\Debug\11.RefactorVolumeOfPyramid.csproj.CoreCompileInputs.cache
+E:\Solutions\DataTypesAndVariables\11.RefactorVolumeOfPyramid\obj\Debug\11.RefactorVolumeOfPyramid.exe
+E:\Solutions\DataTypesAndVariables\11.RefactorVolumeOfPyramid\obj\Debug\11.RefactorVolumeOfPyramid.pdb
+E:\Solutions\DataTypesAndVariables\11.RefactorVolumeOfPyramid\obj\Debug\11.RefactorVolumeOfPyramid.exe.config

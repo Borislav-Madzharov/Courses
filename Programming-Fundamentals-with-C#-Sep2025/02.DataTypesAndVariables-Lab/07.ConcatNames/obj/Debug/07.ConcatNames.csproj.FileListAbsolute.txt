@@ -1,0 +1,7 @@
+E:\Solutions\DataTypesAndVariables\07.ConcatNames\bin\Debug\07.ConcatNames.exe.config
+E:\Solutions\DataTypesAndVariables\07.ConcatNames\bin\Debug\07.ConcatNames.exe
+E:\Solutions\DataTypesAndVariables\07.ConcatNames\bin\Debug\07.ConcatNames.pdb
+E:\Solutions\DataTypesAndVariables\07.ConcatNames\obj\Debug\07.ConcatNames.csproj.AssemblyReference.cache
+E:\Solutions\DataTypesAndVariables\07.ConcatNames\obj\Debug\07.ConcatNames.csproj.CoreCompileInputs.cache
+E:\Solutions\DataTypesAndVariables\07.ConcatNames\obj\Debug\07.ConcatNames.exe
+E:\Solutions\DataTypesAndVariables\07.ConcatNames\obj\Debug\07.ConcatNames.pdb

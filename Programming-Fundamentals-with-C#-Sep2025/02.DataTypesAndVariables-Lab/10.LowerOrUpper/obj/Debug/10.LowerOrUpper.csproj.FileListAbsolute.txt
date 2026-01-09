@@ -1,0 +1,7 @@
+E:\Solutions\DataTypesAndVariables\10.LowerOrUpper\bin\Debug\10.LowerOrUpper.exe.config
+E:\Solutions\DataTypesAndVariables\10.LowerOrUpper\bin\Debug\10.LowerOrUpper.exe
+E:\Solutions\DataTypesAndVariables\10.LowerOrUpper\bin\Debug\10.LowerOrUpper.pdb
+E:\Solutions\DataTypesAndVariables\10.LowerOrUpper\obj\Debug\10.LowerOrUpper.csproj.AssemblyReference.cache
+E:\Solutions\DataTypesAndVariables\10.LowerOrUpper\obj\Debug\10.LowerOrUpper.csproj.CoreCompileInputs.cache
+E:\Solutions\DataTypesAndVariables\10.LowerOrUpper\obj\Debug\10.LowerOrUpper.exe
+E:\Solutions\DataTypesAndVariables\10.LowerOrUpper\obj\Debug\10.LowerOrUpper.pdb
