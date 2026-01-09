@@ -1,0 +1,8 @@
+E:\Solutions\DataTypesAndVariables-Exercise\03.Elevator\bin\Debug\03.Elevator.exe.config
+E:\Solutions\DataTypesAndVariables-Exercise\03.Elevator\bin\Debug\03.Elevator.exe
+E:\Solutions\DataTypesAndVariables-Exercise\03.Elevator\bin\Debug\03.Elevator.pdb
+E:\Solutions\DataTypesAndVariables-Exercise\03.Elevator\obj\Debug\03.Elevator.csproj.AssemblyReference.cache
+E:\Solutions\DataTypesAndVariables-Exercise\03.Elevator\obj\Debug\03.Elevator.csproj.CoreCompileInputs.cache
+E:\Solutions\DataTypesAndVariables-Exercise\03.Elevator\obj\Debug\03.Elevator.exe
+E:\Solutions\DataTypesAndVariables-Exercise\03.Elevator\obj\Debug\03.Elevator.pdb
+E:\Solutions\DataTypesAndVariables-Exercise\03.Elevator\obj\Debug\03.Elevator.exe.config

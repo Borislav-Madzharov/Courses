@@ -1,0 +1,7 @@
+E:\Solutions\DataTypesAndVariables-Exercise\02.SumDigits\bin\Debug\02.SumDigits.exe.config
+E:\Solutions\DataTypesAndVariables-Exercise\02.SumDigits\bin\Debug\02.SumDigits.exe
+E:\Solutions\DataTypesAndVariables-Exercise\02.SumDigits\bin\Debug\02.SumDigits.pdb
+E:\Solutions\DataTypesAndVariables-Exercise\02.SumDigits\obj\Debug\02.SumDigits.csproj.AssemblyReference.cache
+E:\Solutions\DataTypesAndVariables-Exercise\02.SumDigits\obj\Debug\02.SumDigits.csproj.CoreCompileInputs.cache
+E:\Solutions\DataTypesAndVariables-Exercise\02.SumDigits\obj\Debug\02.SumDigits.exe
+E:\Solutions\DataTypesAndVariables-Exercise\02.SumDigits\obj\Debug\02.SumDigits.pdb

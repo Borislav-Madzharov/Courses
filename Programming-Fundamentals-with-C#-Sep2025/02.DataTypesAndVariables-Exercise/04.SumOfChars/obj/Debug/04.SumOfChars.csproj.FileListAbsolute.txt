@@ -1,0 +1,8 @@
+E:\Solutions\DataTypesAndVariables-Exercise\04.SumOfChars\bin\Debug\04.SumOfChars.exe.config
+E:\Solutions\DataTypesAndVariables-Exercise\04.SumOfChars\bin\Debug\04.SumOfChars.exe
+E:\Solutions\DataTypesAndVariables-Exercise\04.SumOfChars\bin\Debug\04.SumOfChars.pdb
+E:\Solutions\DataTypesAndVariables-Exercise\04.SumOfChars\obj\Debug\04.SumOfChars.csproj.AssemblyReference.cache
+E:\Solutions\DataTypesAndVariables-Exercise\04.SumOfChars\obj\Debug\04.SumOfChars.csproj.CoreCompileInputs.cache
+E:\Solutions\DataTypesAndVariables-Exercise\04.SumOfChars\obj\Debug\04.SumOfChars.exe
+E:\Solutions\DataTypesAndVariables-Exercise\04.SumOfChars\obj\Debug\04.SumOfChars.pdb
+E:\Solutions\DataTypesAndVariables-Exercise\04.SumOfChars\obj\Debug\04.SumOfChars.exe.config

@@ -1,0 +1,8 @@
+E:\Solutions\DataTypesAndVariables-Exercise\06.TriplesOfLatinLetters\bin\Debug\06.TriplesOfLatinLetters.exe.config
+E:\Solutions\DataTypesAndVariables-Exercise\06.TriplesOfLatinLetters\bin\Debug\06.TriplesOfLatinLetters.exe
+E:\Solutions\DataTypesAndVariables-Exercise\06.TriplesOfLatinLetters\bin\Debug\06.TriplesOfLatinLetters.pdb
+E:\Solutions\DataTypesAndVariables-Exercise\06.TriplesOfLatinLetters\obj\Debug\06.TriplesOfLatinLetters.csproj.AssemblyReference.cache
+E:\Solutions\DataTypesAndVariables-Exercise\06.TriplesOfLatinLetters\obj\Debug\06.TriplesOfLatinLetters.csproj.CoreCompileInputs.cache
+E:\Solutions\DataTypesAndVariables-Exercise\06.TriplesOfLatinLetters\obj\Debug\06.TriplesOfLatinLetters.exe
+E:\Solutions\DataTypesAndVariables-Exercise\06.TriplesOfLatinLetters\obj\Debug\06.TriplesOfLatinLetters.pdb
+E:\Solutions\DataTypesAndVariables-Exercise\06.TriplesOfLatinLetters\obj\Debug\06.TriplesOfLatinLetters.exe.config
