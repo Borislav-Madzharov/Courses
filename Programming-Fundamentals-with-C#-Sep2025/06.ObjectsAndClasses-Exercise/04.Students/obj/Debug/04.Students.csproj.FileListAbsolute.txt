@@ -1,0 +1,8 @@
+E:\Solutions\06.ObjectsAndClassesExercise\04.Students\bin\Debug\04.Students.exe.config
+E:\Solutions\06.ObjectsAndClassesExercise\04.Students\bin\Debug\04.Students.exe
+E:\Solutions\06.ObjectsAndClassesExercise\04.Students\bin\Debug\04.Students.pdb
+E:\Solutions\06.ObjectsAndClassesExercise\04.Students\obj\Debug\04.Students.csproj.AssemblyReference.cache
+E:\Solutions\06.ObjectsAndClassesExercise\04.Students\obj\Debug\04.Students.csproj.CoreCompileInputs.cache
+E:\Solutions\06.ObjectsAndClassesExercise\04.Students\obj\Debug\04.Students.exe
+E:\Solutions\06.ObjectsAndClassesExercise\04.Students\obj\Debug\04.Students.pdb
+E:\Solutions\06.ObjectsAndClassesExercise\04.Students\obj\Debug\04.Students.exe.config
